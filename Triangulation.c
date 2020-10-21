@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main()
+int main(void)
 {
   float tc=1, tb=1, cb=1; //Distances
   const int v_son = 340; //Vitesse du son dans l'air
