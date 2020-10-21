@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main(void)
+int main(void) // void pour pas mettre return 0
 {
   float tc=1, tb=1, cb=1; //Distances
   const int v_son = 340; //Vitesse du son dans l'air
@@ -13,5 +13,5 @@ int main(void)
 
 
 
-  return 0;
+  //return 0;
 }
