@@ -11,7 +11,5 @@ int main(void) // void pour pas mettre return 0
   printf("XC : %f\n", xc);
   printf("YC : %f\n", yc);
 
-
-
   //return 0;
 }
